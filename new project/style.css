@@ -1,0 +1,203 @@
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo1 {
+    height: 20%;
+}
+
+.logo1 img {
+    height: 200px;
+    width: 200px;
+}
+
+.logo2 h4 {
+    font-size: 40px;
+    color: darkslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.maincontainer {
+    display: flex;
+    align-items: center;
+}
+
+.chart1 {
+    width: 30%;
+    height: 50%;
+}
+
+.chart1 img {
+    width: 400px;
+    height: 50%;
+    margin-left: 70px;
+}
+
+.chart2 {
+    width: 30%;
+    height: 50%;
+}
+
+.chart2 img {
+    width: 400px;
+    height: 50%;
+    margin-right: 100px;
+}
+
+button {
+    margin: auto;
+    display: block;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: darkcyan;
+    color: bisque;
+    font-size: 20px;
+}
+
+.info {
+    margin-left: 50px;
+
+}
+
+.others {
+    text-align: center;
+}
+
+.others h1 {
+    font-size: 20px;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.other p {
+    font-size: larger;
+}
+
+.activities {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+    background-color: bisque;
+}
+
+.act1 {
+    width: 20%;
+    text-align: center;
+}
+
+.act1 img {
+    width: 250px;
+    border-radius: 50%;
+}
+
+.act2 {
+    width: 20%;
+    text-align: center;
+}
+
+.act2 img {
+    width: 250px;
+    border-radius: 50%;
+}
+
+.act3 {
+    width: 20%;
+    text-align: center;
+}
+
+.act3 img {
+    width: 250px;
+    border-radius: 50%;
+}
+
+.act4 {
+    width: 20%;
+    text-align: center;
+}
+
+.act4 img {
+    width: 250px;
+    border-radius: 50%;
+}
+
+.act1 h4 {
+    color: forestgreen;
+    font-size: 25px;
+}
+
+.act2 h4 {
+    color: forestgreen;
+    font-size: 25px;
+}
+
+.act3 h4 {
+    color: forestgreen;
+    font-size: 25px;
+}
+
+.act4 h4 {
+    color: forestgreen;
+    font-size: 25px;
+}
+
+.log {
+    text-align: center;
+}
+
+.log button {
+    margin-top: 20px;
+}
+
+input {
+    width: 300px;
+    height: 40px;
+}
+
+.log h3 {
+    color: darkgreen;
+}
+
+
+
+footer {
+    text-align: center;
+    background-color: dimgrey;
+    color: black;
+    align-items: center;
+}
+
+footer h4 {
+    font-size: x-large;
+    margin-top: 20px;
+    color: darkblue;
+}
+
+.social1 img {
+    border-radius: 50%;
+    width: 40px;
+    height: 30px;
+}
+
+.social2 img {
+    border-radius: 50%;
+    width: 35px;
+    height: 30px;
+}
+
+.social3 img {
+    border-radius: 50%;
+    width: 35px;
+}
+
+.social {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social img {
+    padding: 10px;
+}
